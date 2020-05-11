@@ -1,5 +1,3 @@
-package me.jakkard.aquarium;
-
 import java.util.LinkedList;
 import java.util.List;
 
