@@ -18,6 +18,7 @@ public class Main extends Application {
 
     sout "PIES";
     eluwina dla matki syna;
+    123;
     public static void main(String[] args) {
         launch(args)
         System.out.println("test dzialania");
