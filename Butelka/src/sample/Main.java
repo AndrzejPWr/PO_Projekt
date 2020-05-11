@@ -17,6 +17,7 @@ public class Main extends Application {
     }
 
     sout "PIES";
+    2 psy;
     public static void main(String[] args) {
         launch(args)
         System.out.println("test dzialania");
