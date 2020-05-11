@@ -16,7 +16,7 @@ public class Main extends Application {
         primaryStage.show();
     }
 
-
+    sout "PIES";
     public static void main(String[] args) {
         launch(args)
         System.out.println("test dzialania");
