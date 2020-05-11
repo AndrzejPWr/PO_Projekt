@@ -6,5 +6,6 @@ public class Main extends {
         System.out.println();
         launch(args)
         System.out.println("test dzialania");
+        //test krzysiek;
     }
 }
