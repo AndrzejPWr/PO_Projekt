@@ -54,8 +54,4 @@ public class Aquarium {
 		return false;
 	}
 	
-	public List<Object> get()
-	{
-		return objects;
-	}
 }
