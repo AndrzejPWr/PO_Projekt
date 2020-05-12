@@ -8,6 +8,8 @@ import java.util.Map;
 
 import me.jakkard.aquarium.creators.PositionCreator;
 
+import javax.swing.text.Position;
+
 public class Aquarium {
 
 	private int x;
