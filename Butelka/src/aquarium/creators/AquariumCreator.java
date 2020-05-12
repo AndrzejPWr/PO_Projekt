@@ -1,4 +1,4 @@
-package me.jakkard.aquarium.creators;
+package aquarium.creators;
 
 import aquarium.Aquarium;
 
