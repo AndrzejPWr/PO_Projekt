@@ -32,7 +32,7 @@ public class Position {
 	{
 		this.y = y;
 	}
-	
+		
 	public int getZ()
 	{
 		return z;
@@ -42,5 +42,6 @@ public class Position {
 	{
 		this.z = z;
 	}
+	
 
 }
