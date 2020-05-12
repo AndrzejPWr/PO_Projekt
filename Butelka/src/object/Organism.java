@@ -6,6 +6,8 @@ public abstract class Organism extends Object {
     private int hunger;
     private int size;
     
+    @Override
+    public Position getPosition();
     public abstract int getAge();
     public abstract void setAge();
     public abstract int getHunger();
