@@ -1,6 +1,7 @@
 package object;
 
 public class Position {
+<<<<<<< HEAD
 
 	private int x;
 	private int y;
@@ -44,3 +45,6 @@ public class Position {
 	}
 
 }
+=======
+}
+>>>>>>> branch 'master' of https://github.com/AndrzejPWr/PO_Projekt.git
