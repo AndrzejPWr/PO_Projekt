@@ -5,8 +5,8 @@ package object;
     public int temperature;
     public int n;
 
-        public Fish(int age, int glod, int size, boolean rapacity, int temperature) {
-            super(age, glod, size);
+        public Fish(int age, int hunger, int size, boolean rapacity, int temperature) {
+            super(age, hunger, size);
             this.rapacity = rapacity;
             this.temperature = temperature;
         }
