@@ -1,7 +1,7 @@
 package object;
 
-abstract public class Obiekt  {
-    public Obiekt(int predkosc) {
+abstract public class Object {
+    public Object(int predkosc) {
         this.predkosc = predkosc;
     }
 
