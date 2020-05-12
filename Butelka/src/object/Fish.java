@@ -1,22 +1,32 @@
 package object;
 
     public class Fish extends Organism {
-    public boolean rapacity ;
-    public int temperature;
-    public int n;
+    private boolean rapacity ;
+    private int temperature;
+    private int n;
 
-        public Fish(int age, int hunger, int size, boolean rapacity, int temperature) {
-            super(age, hunger, size);
+        public boolean isRapacity() {
+            return rapacity;
+        }
+
+        public void setRapacity(boolean rapacity) {
             this.rapacity = rapacity;
+        }
+
+        public int getTemperature() {
+            return temperature;
+        }
+
+        public void setTemperature(int temperature) {
             this.temperature = temperature;
         }
 
-        public void changeSize(Fish fish)
-        {
-        if(temperature < n) {
-            fish.size--;
-        }
+        public int getN() {
+            return n;
         }
 
+        public void setN(int n) {
+            this.n = n;
+        }
     }
 
