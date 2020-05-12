@@ -1,6 +1,4 @@
-package Obiekt;
-
-import origin.Obiekt;
+package object;
 
 public class Karma extends Obiekt {
     public Karma(int predkosc) {

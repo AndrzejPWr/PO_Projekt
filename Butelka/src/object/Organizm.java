@@ -1,6 +1,4 @@
-package Obiekt;
-
-import origin.Obiekt;
+package object;
 
 abstract public class Organizm extends Obiekt {
     public int wiek;

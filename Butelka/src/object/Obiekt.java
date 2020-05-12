@@ -1,4 +1,4 @@
-package origin;
+package object;
 
 abstract public class Obiekt  {
     public Obiekt(int predkosc) {
