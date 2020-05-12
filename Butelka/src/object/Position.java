@@ -1,7 +1,6 @@
 package object;
 
 public class Position {
-<<<<<<< HEAD
 
 	private int x;
 	private int y;
@@ -22,7 +21,7 @@ public class Position {
 	public int getY()
 	{
 		return y;
-	}
+	}r
 		
 	public int getZ()
 	{
@@ -45,6 +44,3 @@ public class Position {
 	}
 
 }
-=======
-}
->>>>>>> branch 'master' of https://github.com/AndrzejPWr/PO_Projekt.git
