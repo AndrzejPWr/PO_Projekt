@@ -14,6 +14,8 @@ public abstract class Organism extends Object {
     public abstract void setHunger();
     public abstract int setSize();
     public abstract void getSize();
+    public void move();
+    public void eat();
     //test
     
 }
