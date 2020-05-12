@@ -1,8 +1,10 @@
-package origin;
+package Obiekt;
 
-public class Organizm extends Obiekt {
+import origin.Obiekt;
+
+abstract public class Organizm extends Obiekt {
     public int wiek;
-    public int glod
+    public int glod;
     public int rozmiar;
 
 

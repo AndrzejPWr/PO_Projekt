@@ -1,6 +1,6 @@
 package me.jakkard.aquarium.creators;
 
-import me.jakkard.aquarium.Aquarium;
+import aquarium.Aquarium;
 
 public class AquariumCreator {
 

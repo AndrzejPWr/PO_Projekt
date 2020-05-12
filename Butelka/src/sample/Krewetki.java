@@ -9,11 +9,11 @@ public class Krewetki extends ZachowanieOrganizmow {
 
     }
 
-    void walka Krewetek() (boolean y){
+    void walkaKrewetek(boolean y){
 
     }
 
-    void zjadanieKarmy() (boolean y){
+    void zjadanieKarmy(boolean y){
 
     }
 }

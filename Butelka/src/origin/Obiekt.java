@@ -1,6 +1,6 @@
 package origin;
 
-public class Obiekt  {
+abstract public class Obiekt  {
     public Obiekt(int predkosc) {
         this.predkosc = predkosc;
     }

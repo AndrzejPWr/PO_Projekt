@@ -1,4 +1,4 @@
-package origin;
+package Obiekt;
 
 public class Krewetka extends Organizm {
 

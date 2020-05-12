@@ -1,5 +1,4 @@
 package sample;
-import Obiekt;
 
 public abstract class ZachowanieOrganizmow {
 

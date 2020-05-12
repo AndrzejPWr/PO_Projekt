@@ -10,11 +10,11 @@ public class Ryby extends ZachowanieOrganizmow {
 
     }
 
-    void zjadanieRyby() (boolean y){
+    void zjadanieRyby(boolean y){
 
     }
 
-    void zjadanieKarmy() (boolean y){
+    void zjadanieKarmy(boolean y){
 
     }
 }
