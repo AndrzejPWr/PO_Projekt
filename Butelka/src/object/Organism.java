@@ -1,15 +1,16 @@
 package object;
 
-abstract public class Organism extends Object {
-    public int wiek;
-    public int glod;
-    public int rozmiar;
+public abstract class Organism extends Object {
+    
+	private int age;
+    private int hunger;
+    private int size;
 
-
-    public Organism(int predkosc, int wiek, int glod, int rozmiar) {
-        super(predkosc);
-        this.wiek = wiek;
-        this.glod = glod;
-        this.rozmiar = rozmiar;
-    }
+    public abstract int getAge();
+    public abstract void setAge();
+    public abstract int getHunger();
+    public abstract void setHunger();
+    public abstract int setSize();
+    public abstract void getSize();
+    
 }

@@ -18,24 +18,24 @@ public class Position {
 		return x;
 	}
 		
-	public int getY()
-	{
-		return y;
-	}r
-		
-	public int getZ()
-	{
-		return z;
-	}
-	
 	public void setX(int x)
 	{
 		this.x = x;
+	}
+		
+	public int getY()
+	{
+		return y;
 	}
 	
 	public void setY(int y)
 	{
 		this.y = y;
+	}
+	
+	public int getZ()
+	{
+		return z;
 	}
 	
 	public void setZ(int z)
