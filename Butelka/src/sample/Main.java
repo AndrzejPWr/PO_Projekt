@@ -7,5 +7,7 @@ public class Main extends {
         launch(args)
         System.out.println("test dzialania");
         //test krzysiek;
+        //test
+        //test2
     }
 }
