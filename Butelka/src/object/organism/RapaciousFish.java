@@ -1,4 +1,4 @@
-package object;
+package object.organism;
 
 public class RapaciousFish extends Fish{
 

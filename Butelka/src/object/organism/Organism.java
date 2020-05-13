@@ -1,4 +1,4 @@
-package object;
+package object.organism;
 
 public abstract class Organism extends Object {
     

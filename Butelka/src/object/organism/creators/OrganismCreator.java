@@ -1,4 +1,4 @@
-package object.organism;
+package object.organism.creators;
 
 public class OrganismCreator {
 
