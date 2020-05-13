@@ -1,5 +1,10 @@
 package object.organism.creators;
 
+import object.Snail;
+import object.organism.Fish;
+import object.organism.Fodder;
+import object.organism.RapaciousFish;
+
 public class OrganismCreator {
 
 	public OrganismCreator() 
