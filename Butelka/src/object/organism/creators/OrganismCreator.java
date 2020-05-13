@@ -26,4 +26,9 @@ public class OrganismCreator {
 	{
 		
 	}
+
+	public createOrganisms(int fishNum, int fodderNum, int rapaciousFishNum, int snailNum)
+	{
+		//for(int i=0; i<fishNum; i++) this.
+	}
 }
