@@ -12,31 +12,26 @@ public class Aquarium {
 	
 	private List<Object> objects;
 	
-	public Aquarium(int x, int y, int z)
-	{
+	public Aquarium(int x, int y, int z) {
 		this.x = x;
 		this.y = y;
 		this.z = z;
 		objects = new LinkedList<>();
 	}
 
-	public int getLength()
-	{
+	public int getLength() {
 		return x;
 	}
 
-	public int getWidth()
-	{
+	public int getWidth() {
 		return y;
 	}
 
-	public int getHeight()
-	{
+	public int getHeight() {
 		return z;
 	}
 
-	public boolean add(Object obj)
-	{
+	public boolean add(Object obj) {
 		if(obj != null && !objects.contains(obj))
 		{
 			objects.add(obj);
@@ -45,8 +40,7 @@ public class Aquarium {
 		return false;
 	}
 	
-	public boolean remove(Object obj)
-	{
+	public boolean remove(Object obj) {
 		if(obj != null && objects.contains(obj))
 		{
 			objects.remove(obj);
