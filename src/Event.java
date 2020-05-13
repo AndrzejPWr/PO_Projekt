@@ -9,5 +9,4 @@ public class Event {
     public void zepsuty_filtr(){}
     public void czyszczenie_akwarium(){}
     public void kreator_karmy(int x, int y, int z){}
-
 }
