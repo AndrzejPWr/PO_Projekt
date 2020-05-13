@@ -1,6 +1,6 @@
 package object.organism;
 
-public abstract class Organism extends Object {
+public abstract class Organism implements Object {
     
 	private int age;
     private int hunger;
