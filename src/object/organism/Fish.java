@@ -2,6 +2,10 @@ package object.organism;
 
     public class Fish extends Organism {
     
+    	private Position position;
+    	private int age;
+    	private int hunger;
+    	private int size;
     	private int temperature;
 
     	@Override
