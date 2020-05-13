@@ -2,10 +2,6 @@ package object.organism;
 
 public abstract class Organism implements Object {
     
-	private int age;
-    private int hunger;
-    private int size;
-    
     @Override
     public Position getPosition();
     public abstract int getAge();
